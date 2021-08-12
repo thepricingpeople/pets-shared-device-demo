@@ -1,0 +1,17 @@
+{
+  "client_id" : "000397be-334c-4ec0-9de5-ab44495b6433",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://uk.co.thepricingpeople.petsshareddevicedemo/FVIySMxL9aRzt0n36qemJz5HkYo%3D",
+  "account_mode" : "SINGLE",
+  "broker_redirect_uri_registered": true,
+  "shared_device_mode_supported": true,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADMyOrg",
+        "tenant_id": "7905477c-8162-4a22-bac8-899a1992990e"
+      }
+    }
+  ]
+}
